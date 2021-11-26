@@ -6,7 +6,7 @@
 
 1.Mettre en oeuvre les technologies web pour créer et héberger mon portofolio.
 
-!(https://upload.wikimedia.org/wikipedia/commons/5/53/Weaver_bird.jpg)
+!(html5logo.jpg)
 
 
 - **NetBeans** : Environnement de développement inégré (IDE) utilisé pour ce projet 
